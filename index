@@ -1,0 +1,7 @@
+import sklearn
+import numpy
+import scipy
+import pandas
+import matplotlib as mpl 
+
+
